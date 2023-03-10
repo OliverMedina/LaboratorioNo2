@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Laboratorio No.2</string>
+    <string name="subtitulo">Animales Carnivoros</string>
+    <string name="animal1">Leon</string>
+    <string name="desc_animal1">
+        <b>El león</b> (de nombre científico Panthera leo) es un felino carnívoro de gran tamaño. Es originario del África Subsahariana y de ciertas regiones de la India, en donde constituye el mayor depredador de la cadena trófica. Es uno de los animales salvajes más conocidos y temidos por la humanidad, por su fiereza, pero también admirados y representados en símbolos, relatos y esculturas.
+        \n\nComo todos los felinos, los leones son cuadrúpedos y mamíferos. Poseen una cola larga, un pelaje corto y amarillento, así como una melena rubia u oscura alrededor del cuello en el caso de los machos. De dieta exclusivamente carnívora, son feroces cazadores, capaces de sujetar a la presa con sus garras y de rasgar grandes porciones de carne con sus afilados colmillos.
+Son junto a los tigres los felinos más grandes que existen: pueden medir unos 2 a 3 metros (machos) o 1,80 a 2,7 metros (hembras) de longitud, y alcanzando un peso de 160 a 260 kg (machos) o 120 a 182 kg (hembras).
+
+\n\nPor otro lado, su temperamento es más bien dormilón: dedican unas 20 horas diarias al descanso y la inactividad, teniendo en cambio sus períodos de socialización al ocaso y sus horas de cacería, por lo general, durante la noche. Dedican unas dos horas diarias a caminar y unos 50 minutos diarios a comer.
+
+\n\nLos leones, al contrario del resto de los felinos, son criaturas bastante sociables, que suelen conformar manadas. Tradicionalmente se juntan hembras con algún vínculo familiar y un número menor de machos, junto a las crías de las primeras.
+
+\n\nEs común verlos darse afecto mediante lamidas y restregones, asi como marcar su territorio mediante la orina y mediante la presencia intimidatoria del macho dominante y sus feroces rugidos.
+</string>
+    <string name="animal2">Lobo</string>
+    <string name="desc_animal2"><b>El lobo</b>, de nombre científico Canis lupus, es un tipo de mamífero carnívoro cuadrúpedo, emparentado genéticamente con el perro doméstico (de hecho, se consideran básicamente la misma especie). Vive en manadas y antes de su encuentro con el ser humano, era uno de los depredadores más abundantes de Norteamérica, Eurasia y el Oriente Medio.
+Los lobos han intrigado al ser humano desde la antigüedad, y muchas culturas eligieron identificarse con ellos, ya que se caracterizan por su ferocidad, su espíritu de manada y su tenaz supervivencia en ambientes hostiles, como las tundras heladas del norte de América y Europa.
+
+\n\nLa palabra lobo proviene del vocablo latino lupus, que tiene el mismo significado, y que se empleaba en femenino para referirse a las prostitutas (tal vez por aquello de trabajar bajo la luna). De allí provienen también palabras como “lupanar” (prostíbulo).
+
+\n\nAsí nació también la idea del hombre-lobo (werewolf, en inglés), que sería el cruce entre las dos especies, cuyas transformaciones obedecen a la luna llena. El lobo suele además ser protagonista de mitos muy diversos, como el de Rómulo y Remo, fundadores de Roma, quienes quedaron huérfanos y fueron amamantados por una loba.
+
+\n\nTambién es un usual antagonista de relatos infantiles, representándosele siempre hambriento y enfadado, posiblemente porque en las épocas antiguas llegó a constituir un peligro real para los viajeros, los niños extraviados o para el rebaño.
+
+Hoy en día, en cambio, si bien siguen abundando en diversos hábitats salvajes, mucho más pequeños de lo que alguna vez fueron, se les considera una especie amenazada por el modo de vida del ser humano.
+</string>
+    <string name="boton_anterior">ANTERIOR</string>
+    <string name="boton_siguiente">SIGUIENTE</string>
+    <string name="descripcion_img">imagen de animal carnivoro</string>
+</resources>
